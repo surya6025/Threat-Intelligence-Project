@@ -18,3 +18,5 @@ This project demonstrates basic threat intelligence techniques using free tools 
 
 ## 📄 License:
 This project is for educational purposes only.
+![Threat Scan Result](https://github.com/surya6025/Threat-Intelligence-Project/blob/main/proj.png)
+
