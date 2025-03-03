@@ -1,1 +1,20 @@
+# 🔍 Threat Intelligence Report
+
+## 1️⃣ Overview
+This project collects and analyzes cyber threat intelligence using simple tools.
+
+## 2️⃣ Threat Data Collected
+| **Threat Source** | **Type** | **Risk Level** |
+|-----------------|---------|-------------|
+| VirusTotal | Suspicious domains | Medium |
+| Shodan | Open SSH ports | High |
+
+## 3️⃣ Recommendations
+✔ Close unnecessary open ports.  
+✔ Use firewalls to block malicious domains.  
+✔ Regularly monitor threat intelligence feeds.  
+
+## 4️⃣ Tools Used
+- [VirusTotal](https://www.virustotal.com/)
+- [Shodan](https://www.shodan.io/)
 
